@@ -1,0 +1,1 @@
+Enlace al dataset original: https://www.kaggle.com/datasets/joosthazelzet/lego-brick-images
